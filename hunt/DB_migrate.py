@@ -210,5 +210,5 @@ def create_semester_record(folderpath):
 
 
 
-f = "D:\VScodeFiles\python\Projects\Result Piracy\data\\2021\\"
+f = "" # point to the folder where the data is stored in pdf form.
 extract_student_grades(f)
