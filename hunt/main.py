@@ -13,7 +13,7 @@ skipped = []
 
 # Critical URLs
 login_url = "https://erp.iiitkottayam.ac.in/php/functions.php"
-result_page_URL = "https://erp.iiitkottayam.ac.in/php/sem_result.php"
+result_page_URL = "https://erp.iiitkottayam.ac.in/php/sem_result.php" 
 result_url = "https://erp.iiitkottayam.ac.in/php/result-pub.php"
 id_card_url = "https://erp.iiitkottayam.ac.in/php/id-card.php"
 

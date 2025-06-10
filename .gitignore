@@ -6,3 +6,4 @@
 *.html
 /backend/.env
 /backend/node_modules
+/datasrc/*
